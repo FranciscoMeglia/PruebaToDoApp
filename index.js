@@ -1,7 +1,7 @@
 const btnAdd = document.getElementById("btnAdd")
 const taskInput = document.getElementById("taskInput")
 const tasks = document.getElementById("tasks")
-
+const hola = "git hola"
 // ADD TASK
 btnAdd.addEventListener("click" , () => {
 
